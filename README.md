@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raidiwan
 - 👀 I’m interested in Python data visualization.
 - 🌱 I’m currently learning AIML.
-- 💞️ I’m looking to collaborate on Pyhon development.
+- 💞️ I’m looking to collaborate on Python development.
 - 📫 How to reach me Diwanrairockz@gmail.com
 
 <!---
